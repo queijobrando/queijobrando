@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Tiago! 👋
 
 - 💻 I'm a beginner Back-end developer.
 - </> I’m currently into Web Applications and Data with Python
 - 📚 Computer Science student at Universidade Tiradentes - UNIT.
 - 👨🏼‍💻 Currently working as IT support
 
-## Linguagens e Tecnologias que estou usando
+## Languages and tecnologies i'm currently working on 🔧
 
 <div align="left">
    
