@@ -1,7 +1,7 @@
 ## Hi there, I'm Tiago! 👋
 
 - 💻 I'm a beginner Back-end developer.
-- </> I’m currently into Web Applications and Data with Python
+- </> I’m currently into Web Applications with Java
 - 📚 Computer Science student at Universidade Tiradentes - UNIT.
 - 👨🏼‍💻 Currently working as IT support
 
