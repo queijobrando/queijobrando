@@ -7,7 +7,7 @@
 
 ---
    
-[![My Skills](https://skillicons.dev/icons?i=java,python,spring,html,css,javascript,docker,postgres,mysql&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,spring,react,html,css,javascript,docker,postgres,mysql&perline=15)](https://skillicons.dev)
 
  
 
