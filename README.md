@@ -5,7 +5,7 @@
   
 - 👨🏼‍💻  Atualmente atuando como Suporte de TI na <a href="https://www.cassind.com.br">Cassind</a>
 
----
+## Linguagens e Tecnologias 🔧
    
 [![My Skills](https://skillicons.dev/icons?i=java,python,spring,react,html,css,javascript,docker,postgres,mysql&perline=15)](https://skillicons.dev)
 
