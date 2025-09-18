@@ -17,8 +17,6 @@
   ## Linguagens e Tecnologias 🔧
      
   [![My Skills](https://skillicons.dev/icons?i=java,python,spring,react,html,css,javascript,rabbitmq,docker,postgres,mysql&perline=15)](https://skillicons.dev)
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=queijobrando&show_icons=true&theme=dark" />
 </div>
 
 
