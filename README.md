@@ -16,7 +16,7 @@
   
   ## Linguagens e Tecnologias 🔧
      
-  [![My Skills](https://skillicons.dev/icons?i=java,python,spring,angular,react,html,css,javascript,rabbitmq,nginx,docker,postgres,mysql&perline=15)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,cs,spring,dotnet,angular,react,html,css,javascript,rabbitmq,nginx,docker,postgres,mysql&perline=15)](https://skillicons.dev)
 </div>
 
 
